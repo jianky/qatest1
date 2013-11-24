@@ -28,7 +28,7 @@
 
 - (void)testExample
 {
-    //test
+    //qatest1
     XCTAssertTrue(YES);
 }
 
