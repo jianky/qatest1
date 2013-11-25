@@ -30,8 +30,11 @@
 {
     //qatest123
     XCTAssertTrue(YES);
-    XCTAssertTrue(YES);
-    XCTAssertTrue(YES);
 }
 
+- (void)test1Example
+{
+    //qatest1234
+    XCTAssertTrue(YES);
+}
 @end
