@@ -30,6 +30,8 @@
 {
     //qatest123
     XCTAssertTrue(YES);
+    XCTAssertTrue(YES);
+    XCTAssertTrue(YES);
 }
 
 @end
